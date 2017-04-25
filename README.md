@@ -21,4 +21,4 @@ use the `-h` flag (e.g. `./dnsq -h`).
 ## Example
 
 This is an example to run for the purposes of the lab:
-    ./dnsq -v --nameserver=8.8.8.8 wikipedia.org
+    `./dnsq -v --nameserver=8.8.8.8 wikipedia.org`
